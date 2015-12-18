@@ -1,0 +1,22 @@
+{
+  "name": "bow-n-grunt",
+  "authors": [
+    "Mike Davidson <davi0645@algonquinlive.com>"
+  ],
+  "description": "bower and grunt assignment",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "font-awesome": "~4.5.0"
+  }
+}
